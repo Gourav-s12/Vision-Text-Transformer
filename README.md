@@ -15,10 +15,12 @@ This project consists of two main submodels:
 
 ### Download Database
 
+https://drive.google.com/drive/folders/1EClzqvq0v8OGM2HkRD-0LUlqhQv0M7bt?usp=sharing
 For both submodels, download the dataset from the provided link and save it in the root directory of the project.
 
 ### Download Model (Vision Transformer)
 
+https://huggingface.co/google/paligemma-3b-mix-224/tree/main
 For the Vision Transformer submodel, download the pre-trained model from the provided link and place it in the root directory.
 
 ### Installation
