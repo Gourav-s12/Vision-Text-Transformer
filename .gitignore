@@ -1,0 +1,8 @@
+# Ignore the image_caption folder
+image_caption/
+
+# Ignore the image_question_answer folder
+image_question_answer/
+
+# Ignore the model folder
+model/
